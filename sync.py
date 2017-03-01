@@ -1,9 +1,5 @@
 # this script will use rsync to sync files and folders
 
-src = '/home/dreamingknight/sync/'
-dest = 'harkirat@192.168.0.6:/home/harkirat/sync'
-
-
 import os
 import sys
 import subprocess
