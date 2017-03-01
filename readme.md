@@ -7,9 +7,12 @@ Watchdog is used, which monitors the folder for any changes. If any change is do
 Requirements:
 ------------
 
+Apart from having SSH key based login access into the other system with the systems, the following are required:
+
 
 Python 3+
 ---------
+
 
 Watchdog
 -------
