@@ -4,6 +4,7 @@ Watchdog is used, which monitors the folder for any changes. If any change is do
 
 
 To start, run:
+
     python3 sync.py
 
 on both the systems.
